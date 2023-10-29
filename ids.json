@@ -1,0 +1,5 @@
+{
+    "posts" : "post_id" , 
+    "comments" :"comment_id" ,
+    "profile" : "profile_id"
+}

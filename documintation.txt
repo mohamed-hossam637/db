@@ -1,0 +1,16 @@
+// run cmd => php -S 127.0.0.1:9000 
+
+
+// GET METHOD
+1- get all data => http://localhost:9000/DB/
+1- get all posts => http://localhost:9000/posts/
+1- get all post by id => http://localhost:9000/posts/1
+
+
+// UPDATE (POST) METHOD BY id
+1- update data => http://localhost:9000/posts/1
+--- title
+--- author
+
+// DELETE POST (DELETE) METHOD BY ID
+1- DELETE data => http://localhost:9000/posts/1

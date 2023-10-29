@@ -1,0 +1,73 @@
+{
+    "posts": [
+        {
+            "post_id": 1,
+            "title": "json-server",
+            "author": "typicode"
+        },
+        {
+            "post_id": 3,
+            "title": "json-server",
+            "author": "typicode"
+        },
+        {
+            "post_id": 4,
+            "title": "json-server",
+            "author": "typicode"
+        },
+        {
+            "post_id": 5,
+            "title": "json-server",
+            "author": "typicode"
+        },
+        {
+            "post_id": 6,
+            "title": "new post",
+            "author": "mohamed hossam"
+        },
+        {
+            "post_id": 7,
+            "title": "new post 2\n",
+            "author": "mohamed hossam"
+        },
+        {
+            "title": "new post 3",
+            "author": "mohamed hossam 2",
+            "post_id": 8
+        },
+        {
+            "post_id": 9,
+            "title": "this title for this post",
+            "author": "mohamed"
+        }
+    ],
+    "comments": [
+        {
+            "comment_id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "comment_id": 2,
+            "body": "this is comment body for this post",
+            "postId": "2"
+        },
+        {
+            "comment_id": 3,
+            "body": "this is comment body for this post",
+            "postId": "5"
+        },
+        {
+            "comment_id": 4,
+            "body": "this is comment body for this post",
+            "postId": "5"
+        }
+    ],
+    "profile": [
+        {
+            "profile_id": 1,
+            "name": "typicode",
+            "image": "https:\/\/th.bing.com\/th\/id\/OIP.GlXqxcR9EmviN5kuwaUsMQHaIB?pid=ImgDet&rs=1"
+        }
+    ]
+}
